@@ -1,2 +1,0 @@
-# Quadrupede IK
-
